@@ -91,7 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Created by [@Tovas7](https://github.com/Tovas7) - feel free to reach out!
+Contact raphaeltovas6@gmail.com - feel free to reach out!
 
 ---
 
